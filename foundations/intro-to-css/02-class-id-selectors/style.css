@@ -5,6 +5,15 @@
     font-family: "Verdana", "DejavuSans", sans-serif;
 }
 
-.big {
-    font-size: large;
+.medium {
+    font-size: 25px;
+}
+
+#Number2 {
+    font-size: 35px;
+    color: blue;
+}
+
+#green {
+    background-color: greenyellow;
 }
