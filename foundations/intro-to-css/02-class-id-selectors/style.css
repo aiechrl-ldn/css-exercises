@@ -1,6 +1,10 @@
 /* Add CSS Styling */
 
-p {
+.regular {
     background-color: #FF9EAD;
     font-family: "Verdana", "DejavuSans", sans-serif;
+}
+
+.big {
+    font-size: large;
 }
